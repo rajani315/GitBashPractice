@@ -9,4 +9,8 @@ public class SampleClass22Test {
 		System.out.println("method1");
 	}
 
+	@Test
+	public void method23Test() {
+		System.out.println("method1");
+	}
 }
