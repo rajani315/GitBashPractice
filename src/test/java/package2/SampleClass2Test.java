@@ -6,7 +6,7 @@ public class SampleClass2Test {
 	
 	@Test
 	public void method2Test() {
-		System.out.println("method1");
+		System.out.println("method2");
 	}
 
 }
